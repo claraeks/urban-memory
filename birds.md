@@ -6,6 +6,6 @@ This is the page with birds.
 
 Want to see more animals? See:
 
-Mammals(mammals)
-Reptiles(reptiles)
-Fish(fish)
+- [Mammals](mammals)
+- [Reptiles](reptiles)
+- [Fish](fish)
