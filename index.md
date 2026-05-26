@@ -1,6 +1,7 @@
 # You wanna see some animals?
 
 See:
-[Mammals](mammals)
-[Reptiles](reptiles)
-[Fish](fish)
+- [Mammals](mammals)
+- [Birds](birds)
+- [Reptiles](reptiles)
+- [Fish](fish)
