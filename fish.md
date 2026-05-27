@@ -8,3 +8,7 @@ Want to see more animals? See:
 - [Mammals](mammals)
 - [Birds](birds)
 - [Reptiles](reptiles)
+
+I'm done with animals. See:
+
+- [Not Animals](notanimal)
